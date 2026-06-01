@@ -1,4 +1,0 @@
-onnxruntime
-tokenizers
-flask
-numpy
